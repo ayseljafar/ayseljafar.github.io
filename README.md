@@ -16,10 +16,10 @@ This project explored customer sentiment in Trustpilot reviews using a comprehen
 ![pic1](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/KMeans%20Clustering.png)
 ![pic2](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/Wordcloud%20neg.png)
 
-### 3.AI-vs-Real-Image-analysis
+### 3. AI-vs-Real-Image-analysis
 In this project I have used openCV and deep learning algorithms to generate a CNN model for predicting the images whether they are AI-generated or real images. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
 
 
- I’m currently working on a churn detection project for estimating bank customers' supscritptions.
+### 4. I’m currently working on a churn detection project for estimating bank customers' supscritptions.
 
 
