@@ -9,7 +9,9 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 ![Link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/seasonal%20decomp.png)
 
 2.This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
-[link](https://customer-satisfaction.streamlit.app/)
+
+[Project Link](https://customer-satisfaction.streamlit.app/)
+
 ![pic1](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/KMeans%20Clustering.png)
 ![pic2](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/Wordcloud%20neg.png)
 
