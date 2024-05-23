@@ -1,4 +1,5 @@
-### Hi there 👋
+### Aysel Jafarova
+A flexible data scientist with broad analytical capabilities and a strong background in collaborative work. I have honed my skills through participation in a Data Science Bootcamp, concentrating on NLP, Machine Learning, and Deep Learning, which has notably enhanced my expertise. My competencies span analytical thinking, mathematics, and statistics. Beyond my professional aptitude, I have consistently showcased my teamwork abilities as an integral team member. Currently seeking a new opportunity to further enrich my existing knowledge and expertise in the field of data science.
 
 
 
