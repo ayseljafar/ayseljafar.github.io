@@ -7,7 +7,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 
 ### 1. Time Series Analysis using Arima Sarimax models for prediction seasonality of aviation passengers.
 ![Link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/seasonal%20decomp.png)
-#### Predictions of SARIMAX Model for the year 1962
+#### Predictions of number of passengers according to SARIMAX Model for the year 1962
 ![link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/prediction.png)
 
 ### 2.Customer Satisfaction from Trustpilot reviews
