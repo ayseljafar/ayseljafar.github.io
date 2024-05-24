@@ -12,8 +12,9 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
 
 [Project Link](https://customer-satisfaction.streamlit.app/)
-
+#### KMeans Clustering of PCA applied vectorized reviews to reduce dimensionality
 ![pic1](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/KMeans%20Clustering.png)
+#### Wordcloud generated from positive reviews
 ![pic2](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/Wordcloud%20neg.png)
 
 ### 3. AI-vs-Real-Image-analysis
