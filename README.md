@@ -9,6 +9,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 ![Link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/seasonal%20decomp.png)
 #### Predictions of number of passengers according to SARIMAX Model for the year 1962
 ![link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/prediction.png)
+[Code](https://github.com/ayseljafar/timeseries_passengers/blob/main/airpassengers.ipynb)
 
 ### 2.Customer Satisfaction from Trustpilot reviews
 This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
@@ -23,6 +24,7 @@ This project explored customer sentiment in Trustpilot reviews using a comprehen
 In this project I have used openCV and deep learning algorithms to generate a CNN model for predicting the images whether they are AI-generated or real images. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
 ![pic1](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/cnn.png)
 ![pic2](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/prediction%201.png)
+[Code](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/AIvsRealAArt.ipynb)
 
 
 ### 4. I’m currently working on a churn detection project for estimating bank customers' supscritptions.
