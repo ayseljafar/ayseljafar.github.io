@@ -5,7 +5,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 
 ## My Projects: 
 
-### 1. Time Series Analysis using Arima Sarimax models for prediction seasonality of aviation passengers.
+### 1. Time Series Analysis using Sarimax models for prediction seasonality of aviation passengers.
 ![Link](https://github.com/ayseljafar/ayseljafar.github.io/blob/main/images/seasonal%20decomp.png)
 #### Predictions of number of passengers according to SARIMAX Model for the year 1962
 ![link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/prediction.png)
