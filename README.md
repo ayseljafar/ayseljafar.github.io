@@ -4,14 +4,16 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 
 
 ## My Projects: 
+### 1. Performing sentiment analysis from Trustpilot reviews of DoGood Credit Union DBank by using LLM- Transformer Model BERT
+![Link](https://github.com/ayseljafar/BERT_sentiment_analysis/blob/main/dataframe/Screenshot%202024-07-03%20at%2013.33.21.png)
 
-### 1. Time Series Analysis using Sarimax models for prediction seasonality of aviation passengers.
+### 2. Time Series Analysis using Sarimax models for prediction seasonality of aviation passengers.
 ![Link](https://github.com/ayseljafar/ayseljafar.github.io/blob/main/images/seasonal%20decomp.png)
 #### Predictions of number of passengers according to SARIMAX Model for the year 1962
 ![link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/prediction.png)
 [Code](https://github.com/ayseljafar/timeseries_passengers/blob/main/airpassengers.ipynb)
 
-### 2.Customer Satisfaction from Trustpilot reviews
+### 3.Customer Satisfaction from Trustpilot reviews
 This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
 
 [Project Link](https://customer-satisfaction.streamlit.app/)
@@ -20,13 +22,13 @@ This project explored customer sentiment in Trustpilot reviews using a comprehen
 #### Wordcloud generated from positive reviews
 ![pic2](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/Wordcloud%20neg.png)
 
-### 3. AI-vs-Real-Image-analysis
+### 4. AI-vs-Real-Image-analysis
 In this project I have used openCV and deep learning algorithms to generate a CNN model for predicting the images whether they are AI-generated or real images. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
 ![pic1](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/cnn.png)
 ![pic2](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/prediction%201.png)
 [Code](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/AIvsRealAArt.ipynb)
 
 
-### 4. I’m currently working on a churn detection project for estimating bank customers' supscritptions.
+### 5. I’m currently working on a churn detection project for estimating bank customers' supscritptions.
 
 
