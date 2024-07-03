@@ -7,6 +7,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 ### 1. Performing sentiment analysis from Trustpilot reviews of DoGood Credit Union DBank by using LLM- Transformer Model BERT
 [Notebook](https://github.com/ayseljafar/BERT_sentiment_analysis/blob/main/Sentiment_BERT.ipynb)
 ![Link](https://github.com/ayseljafar/BERT_sentiment_analysis/blob/main/dataframe/Screenshot%202024-07-03%20at%2013.33.21.png)
+![image](/assets/images/(https://github.com/ayseljafar/BERT_sentiment_analysis/blob/main/dataframe/Screenshot%202024-07-03%20at%2013.33.21.png))
 
 ### 2. Time Series Analysis using Sarimax models for prediction seasonality of aviation passengers.
 [Notebook](https://github.com/ayseljafar/timeseries_passengers/blob/main/airpassengers.ipynb)
