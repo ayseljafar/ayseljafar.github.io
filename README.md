@@ -13,7 +13,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 [Notebook](https://github.com/ayseljafar/timeseries_passengers/blob/main/airpassengers.ipynb)
 ![Link](docs/assets/seasonal_decomp.png)
 #### Predictions of number of passengers according to SARIMAX Model for the year 1962
-![link](https://github.com/ayseljafar/timeseries_passengers/blob/main/images/prediction.png)
+![link](docs/assets/prediction.png)
 
 ### 3.Customer Satisfaction from Trustpilot reviews
 This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
