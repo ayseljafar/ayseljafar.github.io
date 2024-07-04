@@ -20,16 +20,16 @@ This project explored customer sentiment in Trustpilot reviews using a comprehen
 
 [Streamlit_app](https://customer-satisfaction.streamlit.app/)
 #### KMeans Clustering of PCA applied vectorized reviews to reduce dimensionality
-![pic1](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/KMeans%20Clustering.png)
+![pic1](docs/assets/kmeans.png)
 #### Wordcloud generated from positive reviews
-![pic2](https://github.com/ayseljafar/Customer-satisfaction/blob/main/images/Wordcloud%20neg.png)
+![pic2](docs/assets/wordcloud.png)
 
 ### 4. AI-vs-Real-Image-analysis
 In this project I have used openCV and deep learning algorithms to generate a CNN model for predicting the images whether they are AI-generated or real images. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
 
 [Notebook](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/AIvsRealAArt.ipynb)
-![pic1](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/cnn.png)
-![pic2](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/images/prediction%201.png)
+![pic1](docs/assets/cnn.png)
+![pic2](docs/assets/prediction 1.png)
 
 
 
