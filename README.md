@@ -29,7 +29,7 @@ In this project I have used openCV and deep learning algorithms to generate a CN
 
 [Notebook](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/AIvsRealAArt.ipynb)
 ![pic1](docs/assets/cnn.png)
-![pic2](docs/assets/prediction 1.png)
+![pic2](docs/assets/prediction_1.png)
 
 
 
