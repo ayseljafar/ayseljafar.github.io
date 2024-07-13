@@ -1,7 +1,5 @@
 # About me
-A flexible data scientist with broad analytical capabilities and a strong background in collaborative work. I have honed my skills by participating in a Data Science Certification Program, concentrating on NLP, Machine Learning, and Deep Learning, notably enhancing my expertise. My competencies span analytical thinking, mathematics, and statistics. Beyond my professional aptitude, I have consistently showcased my teamwork abilities as an integral team member. Currently seeking a new opportunity to further enrich my existing knowledge and expertise in the field of data science.
-
-
+A flexible data scientist with broad analytical capabilities and a strong background in collaborative work. I have honed my skills by participating in a Data Science Certification Program, concentrating on NLP, Machine Learning, and Deep Learning, notably enhancing my expertise. My competencies span analytical thinking, mathematics, and statistics. Beyond my professional aptitude, I have consistently showcased my teamwork abilities as an integral team member.
 
 ## My Projects: 
 ### 1. Performing sentiment analysis from Trustpilot reviews of DoGood Credit Union DBank by using LLM- Transformer Model BERT
@@ -12,7 +10,7 @@ A flexible data scientist with broad analytical capabilities and a strong backgr
 ### 2. Time Series Analysis using Sarimax models for prediction seasonality of aviation passengers.
 [Notebook](https://github.com/ayseljafar/timeseries_passengers/blob/main/airpassengers.ipynb)
 ![Link](docs/assets/seasonal_decomp.png)
-#### Predictions of number of passengers according to SARIMAX Model for the year 1962
+#### Predictions of the number of passengers according to SARIMAX Model for the year 1962
 ![link](docs/assets/prediction.png)
 
 ### 3.Customer Satisfaction from Trustpilot reviews
@@ -25,7 +23,7 @@ This project explored customer sentiment in Trustpilot reviews using a comprehen
 ![pic2](docs/assets/wordcloud.png)
 
 ### 4. AI-vs-Real-Image-analysis
-In this project I have used openCV and deep learning algorithms to generate a CNN model for predicting the images whether they are AI-generated or real images. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
+In this project, I have used openCV and deep learning algorithms to generate a CNN model for predicting whether the images are AI-generated or real. Prediction Accuracy reaches up to 79% of the model there is no sign of overfitting and the model is successfully predicting between AI-generated and Real Art pictures.
 
 [Notebook](https://github.com/ayseljafar/AI-vs-Real-Image-analysis/blob/main/AIvsRealAArt.ipynb)
 ![pic1](docs/assets/cnn.png)
@@ -33,6 +31,6 @@ In this project I have used openCV and deep learning algorithms to generate a CN
 
 
 
-### 5. I’m currently working on a churn detection project for estimating bank customers' supscritptions.
+### 5. I’m working on a churn detection project to estimate bank customers' subscriptions.
 
 
